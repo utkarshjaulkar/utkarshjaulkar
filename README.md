@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @utkarshjaulkar
+- 👋 Hi, I’m Utkarsh Jaulkar
+- 🎓 I am a second year student currently poursuing B-tech degree.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React framework
 - 💞️ I’m looking to collaborate on Open source projects
