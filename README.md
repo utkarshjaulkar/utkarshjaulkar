@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning React framework
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me : ujaulkar1604@gmail.com
+- LinkedIn : www.linkedin.com/in/utkarsh-jaulkar
+
 
 <!---
 utkarshjaulkar/utkarshjaulkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
