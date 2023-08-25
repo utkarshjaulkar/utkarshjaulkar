@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer !!</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Next.js and Typescript<br>👯 I’m looking to collaborate on Open Source<br>🌱 I’m currently learning Three.js<br>💬 Ask me about React, Javascript<br>
+🔭 I’m currently working on Next.js and Typescript<br>👯 I’m looking to collaborate on Open Source<br>🌱 I’m currently learning Three.js<br>💬 Ask me about Web Development<br>
 
 
 ## 🌐 Socials:
